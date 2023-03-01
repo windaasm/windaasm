@@ -9,7 +9,8 @@
 - 🔭 I’m currently study as a Informatics Engineering Student at Universitas Komputer Indonesia
 - ⚡ I’m currently learning Machine Learning and Data Analytics
 - 👨‍💻 I'm interested in Web Development, UI/ UX and Machine Learning
-- 📫 You can reach me in <a href="windaasmarawati10@gmail.com">Email me!</a>  or [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/windaasmarawati/) 
+- 📫 You can reach me in <a href="windaasmarawati10@gmail.com">Email me!</a>  or <a href="[windaasmarawati10@gmail.com](https://www.linkedin.com/in/windaasmarawati/)">Email me!</a>
+
 ![](https://github-readme-stats.vercel.app/api?username=windaasm&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=windaasm&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
